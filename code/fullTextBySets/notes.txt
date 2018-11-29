@@ -1,0 +1,1 @@
+folders for each set. Each set must contain the files with the full text for the documents.
