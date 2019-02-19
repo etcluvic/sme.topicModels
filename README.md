@@ -20,6 +20,8 @@ L. Meneses, A. Arbuckle, H. Lopez, B. Moa, R. Furuta, and R. Siemens, “Alignin
 L. Meneses, A. Arbuckle, H. Lopez, B. Moa and R. Siemens, “Social Media Engine,” presented at the Open Cyberinfrastructure for the Humanities and Social Sciences Workshop 2017, Montreal, Canada, 25 October 2017.
 L. Meneses, A. Arbuckle, B. Moa, R. Siemens and R. Furuta, “Towards a more Context Aware Digital Library: Implications in the Humanities,” presented at the Joint CSDH/SCHN & ACH Digital Humanities Conference 2017, Toronto, Canada, 29-31 May 2017.
 
+This research was conducted as part of the CO.SHS project (co-shs.ca) and has received financial support from the Canada Foundation for Innovation (Cyberinfrastructure Initiative – Challenge 1 – First competition)
+
 Creative Commons Attribution 4.0 International Public License - https://creativecommons.org/licenses/by/4.0/legalcode
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
